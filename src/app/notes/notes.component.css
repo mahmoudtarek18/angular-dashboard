@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+
+.notes-wrapper{
+    height: 100%;
+    overflow-y: auto;
+}
+
+.add-btn i{
+    margin-right: 5px;
+    margin-left: -4px;
+}
